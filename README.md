@@ -3,7 +3,7 @@
 You'll find some of my projects below but if you want to read more about my work experience please visit my [site](https://rafeed.super.site/)
 
 - 🔭 I’m currently working on a SaaS platform for teachers and private school admins to manage student data
-- 🌱 I’m currently learning cloud tech and devops. Looking to get my AWS Developer Associate Certification soon
+- 🌱 I’m also learning about cloud tech and devops. Looking to get my AWS Developer Associate Certification soon
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafeedm" />
